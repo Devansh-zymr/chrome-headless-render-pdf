@@ -1,4 +1,3 @@
-# Add a new comment to trigger build.
 # Basic nginx dockerfile starting with Ubuntu 18.04
 # FROM ubuntu:18.04
 FROM scratch
